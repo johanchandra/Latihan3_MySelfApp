@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    //button menu tab
+
+    <color name="textButton">#c0c0c0c0</color>
+    <color name="checked">#c0c0c0c0</color>
+    <color name="bg_menu_tab">#ffffff</color>
+</resources>
